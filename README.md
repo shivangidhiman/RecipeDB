@@ -1,7 +1,7 @@
 # Independent Project - Data Analysis: RecipeDB
 Monsoon 2020
 
-Analysis: https://shivangidhiman.github.io/IP_RecipeDB/recipeDB_analysis.html
+Analysis: [recipeDB_analysis](https://shivangidhiman.github.io/IP_RecipeDB/recipeDB_analysis.html)
 
 Files: 
 - backbone_ingredient.html: interactive [plot](https://shivangidhiman.github.io/IP_RecipeDB/backbone_ingredient.html) for the backbone structure.
