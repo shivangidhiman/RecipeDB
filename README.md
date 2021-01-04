@@ -1,7 +1,12 @@
 # Independent Project - Data Analysis: RecipeDB
+
+Guide: Dr. Ganesh Bagler
+
 Monsoon 2020
 
-Analysis: [recipeDB_analysis](https://shivangidhiman.github.io/IP_RecipeDB/recipeDB_analysis.html)
+
+
+Jupyter Notebook: [RecipeDB Analysis](https://shivangidhiman.github.io/IP_RecipeDB/recipeDB_analysis.html)
 
 Files: 
 - backbone_ingredient.html: interactive [plot](https://shivangidhiman.github.io/IP_RecipeDB/backbone_ingredient.html) for the backbone structure.
