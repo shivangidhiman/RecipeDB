@@ -1,18 +1,38 @@
-# Independent Project - Data Analysis: RecipeDB
+# Data Analysis: RecipeDB
 
-Guide: Dr. Ganesh Bagler
+[https://shivangidhiman.github.io/RecipeDB](https://shivangidhiman.github.io/RecipeDB)
 
-Monsoon 2020
-
-
-
-Jupyter Notebook: [RecipeDB Analysis](https://shivangidhiman.github.io/IP_RecipeDB/recipeDB_analysis.html)
-
-Files: 
-- backbone_ingredient.html: interactive [plot](https://shivangidhiman.github.io/IP_RecipeDB/backbone_ingredient.html) for the backbone structure.
-- community_lists.csv: list of all ingredients and their community number.
-- neg_pairs.csv: negatively correlated nutrient pairs.
-- pca_recipes.html: interactive [plot](https://shivangidhiman.github.io/IP_RecipeDB/pca_recipes.html) for the Principal Component Analysis done to detect outliers.
-- pos_pairs.csv: positevely correlated nutrient pairs.
-- recipeDB_analsyis.html: data analysis done on the RecipeDB dataset.
-- voteRank_ingredient.csv: ingredients ranked (highest to lowest) on the basis of their influence on the network.
+File structure:
+```
+.
+|--assets
+|--|--css
+|--|--|--bootstrap.min.css
+|--|--|--owl-carousel.css
+|--|--|--styles.css
+|--|--images
+|--|--js
+|--html_nb
+|  |--backbone_extraction.html
+|  |--community_detection.html
+|  |--correlation_coeffs.html
+|  |--eda.html
+|  |--pca.html
+|  |--vote_rank.html
+|--output_files
+|  |--community_lists.csv
+|  |--ingredient_weights.csv
+|  |--neg_pairs.csv
+|  |--pos_pairs.csv
+|  |--voteRank_ingredient.csv
+|--plots
+|--README.md
+|--backbone_extraction.ipynb
+|--community_detection.ipynb
+|--correlation_coffs.ipynb
+|--eda.ipynb
+|--index.html
+|--pca.ipynb
+|--requirements.txt
+|--vote_rank.ipynb
+```
