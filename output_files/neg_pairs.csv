@@ -1,1 +1,736 @@
-
+Nutrient1,Nutrient2,Value
+"Fatty acids, total trans-polyenoic 13:0 (g)","Fatty acids, total saturated 4:0 (g)",-0.004805905705347947
+"Fatty acids, total trans-polyenoic 13:0 (g)","Sugars, total (g)",-0.004379071399650272
+"Fatty acids, total trans-polyenoic 13:0 (g)",Sucrose (g),-0.003996429714771055
+"Fatty acids, total trans-polyenoic 13:0 (g)",Lactose (g),-0.0027680873773276377
+"Vitamin E, added (mg)",Water (g),-0.002694316963749129
+"Calcium, Ca (mg)","Fatty acids, total trans-polyenoic 13:0 (g)",-0.00251197974259889
+"Selenium, Se (g)","Vitamin E, added (mg)",-0.002436839792740412
+"Fatty acids, total trans-polyenoic 13:0 (g)","Tocopherol, beta (mg)",-0.002340142118041254
+Lactose (g),"Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.002331331397560983
+Protein (g),"Vitamin E, added (mg)",-0.0022314778310220306
+Proline (g),"Vitamin E, added (mg)",-0.002176168623061486
+Folic acid (g),"Fatty acids, total trans-polyenoic 13:0 (g)",-0.0021373411636222816
+"Fatty acids, total trans-polyenoic 13:0 (g)","Vitamin C, total ascorbic acid (mg)",-0.0021195085857284367
+"Vitamin E, added (mg)","Potassium, K (mg)",-0.0021172384369872615
+Fructose (g),"Fatty acids, total trans-polyenoic 13:0 (g)",-0.00209829852749111
+"Vitamin E, added (mg)",Lysine (g),-0.002073769808123344
+"Vitamin E, added (mg)",Glutamic acid (g),-0.002046786437317087
+"Fatty acids, total trans-polyenoic 13:0 (g)","Fatty acids, total trans-polyenoic 18:3i (g)",-0.0020319754706621613
+"Choline, total (mg)","Vitamin E, added (mg)",-0.002018785456058182
+"Fatty acids, total trans-polyenoic 13:0 (g)",Theobromine (mg),-0.002009158870140066
+Leucine (g),"Vitamin E, added (mg)",-0.001988421361036148
+"Vitamin E, added (mg)",Serine (g),-0.00198008177460172
+"Vitamin E, added (mg)",Valine (g),-0.0019673702559018643
+Isoleucine (g),"Vitamin E, added (mg)",-0.001945550205063998
+Pantothenic acid (mg),"Vitamin E, added (mg)",-0.0019397097556543934
+"Vitamin E, added (mg)",Threonine (g),-0.001936602431475956
+Histidine (g),"Vitamin E, added (mg)",-0.0019212707672779594
+Phenylalanine (g),"Vitamin E, added (mg)",-0.0019204462201709222
+"Vitamin E, added (mg)","Phosphorus, P (mg)",-0.0019022939305307321
+"Vitamin E, added (mg)",Tyrosine (g),-0.0018870160151315879
+"Vitamin E, added (mg)",Aspartic acid (g),-0.0018780759513046758
+Alanine (g),"Vitamin E, added (mg)",-0.0018351518490108349
+Methionine (g),"Vitamin E, added (mg)",-0.001774360070194471
+"Fatty acids, total trans-polyenoic 13:0 (g)",Caffeine (mg),-0.001771418741586742
+"Fatty acids, total polyunsaturated 18:2 t,t (g)",Betaine (mg),-0.0017647971315746715
+Glucose (dextrose) (g),"Fatty acids, total trans-polyenoic 13:0 (g)",-0.001705261158686714
+"Vitamin E, added (mg)",Cystine (g),-0.0016782369814160034
+Phytosterols (mg),Vitamin D2 (ergocalciferol) (g),-0.001634688019864499
+Protein (g),"Alcohol, ethyl (g)",-0.0016277857312536473
+Tryptophan (g),"Vitamin E, added (mg)",-0.001621318373973112
+"Fatty acids, total polyunsaturated 18:2 i (g)","Fatty acids, total trans-polyenoic 13:0 (g)",-0.0016155298952266514
+Sucrose (g),"Fatty acids, total trans-polyenoic 15:1 (g)",-0.0016115229914399026
+Glutamic acid (g),"Alcohol, ethyl (g)",-0.001593021492264962
+Glycine (g),"Vitamin E, added (mg)",-0.0015927533786277601
+Betaine (mg),"Vitamin E, added (mg)",-0.0015846100806582014
+"Alcohol, ethyl (g)",Serine (g),-0.0015763215397705502
+Maltose (g),"Fatty acids, total trans-polyenoic 13:0 (g)",-0.0015661328691437269
+"Alcohol, ethyl (g)",Proline (g),-0.001553823911811596
+Arginine (g),"Vitamin E, added (mg)",-0.0015476997224381384
+"Alcohol, ethyl (g)",Cystine (g),-0.0015336188752810929
+Fructose (g),Vitamin D2 (ergocalciferol) (g),-0.0015306042790659683
+Fructose (g),"Vitamin E, added (mg)",-0.0015276201914049185
+Phenylalanine (g),"Alcohol, ethyl (g)",-0.0015267004417404372
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 15:0 (g)",-0.0015077218847547181
+"Alcohol, ethyl (g)",Arginine (g),-0.0015013918713864787
+Tyrosine (g),"Alcohol, ethyl (g)",-0.0014916892534206202
+"Fatty acids, total trans-polyenoic 13:0 (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0014912693213495615
+Valine (g),"Alcohol, ethyl (g)",-0.0014894548219318699
+"Alcohol, ethyl (g)",Tryptophan (g),-0.001487669305352797
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Vitamin A, IU (IU)",-0.001479067366701601
+"Alcohol, ethyl (g)","Fatty acids, total trans-polyenoic 13:0 (g)",-0.0014772754557934801
+"Alcohol, ethyl (g)",Leucine (g),-0.0014710414080042924
+"Selenium, Se (g)","Alcohol, ethyl (g)",-0.001461681832829821
+"Alcohol, ethyl (g)",Aspartic acid (g),-0.001457812210270424
+Threonine (g),"Alcohol, ethyl (g)",-0.0014344476573983536
+Isoleucine (g),"Alcohol, ethyl (g)",-0.001433834576879335
+Glucose (dextrose) (g),"Vitamin E, added (mg)",-0.001423769643558808
+Adjusted Protein (g),"Fatty acids, total trans-polyenoic 13:0 (g)",-0.001417341266443453
+"Alcohol, ethyl (g)",Alanine (g),-0.001395262922732665
+"Alcohol, ethyl (g)",Histidine (g),-0.001391027822498857
+"Alcohol, ethyl (g)",Methionine (g),-0.0013666812074298877
+"Fatty acids, total polyunsaturated 18:2 t,t (g)",Vitamin B-12 (g),-0.0013645458250473596
+"Fatty acids, total polyunsaturated 18:2 i (g)",Niacin (mg),-0.0013635334071589835
+"Fatty acids, total saturated 14:1 (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.001361542248997385
+"Alcohol, ethyl (g)",Glycine (g),-0.0013568053214606107
+"Tocopherol, delta (mg)","Fatty acids, total trans-polyenoic 13:0 (g)",-0.0013521709996412161
+"Alcohol, ethyl (g)",Lysine (g),-0.0013482559385994601
+"Fluoride, F (g)","Fatty acids, total trans-polyenoic 13:0 (g)",-0.0013477939245375027
+Lutein + zeaxanthin (g),"Vitamin E, added (mg)",-0.0013409103775065849
+"Fatty acids, total polyunsaturated 18:2 t not further defined (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.001331117312463737
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 18:2 CLAs (g)",-0.0013041372092850079
+"Fatty acids, total trans-polyenoic 13:0 (g)",Dihydrophylloquinone (g),-0.001299161859316715
+"Vitamin E, added (mg)","Carotene, beta (g)",-0.0012838806747958447
+"Fatty acids, total saturated 20:4 undifferentiated (g)","Vitamin E, added (mg)",-0.0012817715115063112
+"Vitamin E, added (mg)",Cholesterol (mg),-0.0012624006929754157
+"Fatty acids, total saturated 14:0 (g)","Vitamin E, added (mg)",-0.0012559478798554041
+"Vitamin E, added (mg)","Fatty acids, total saturated (g)",-0.0012443540933434998
+Phytosterols (mg),"Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0012336814693670681
+"Vitamin E, added (mg)",Niacin (mg),-0.0012151749247153695
+"Fatty acids, total polyunsaturated 18:2 i (g)",Glucose (dextrose) (g),-0.0012127334414764634
+Niacin (mg),"Alcohol, ethyl (g)",-0.0012119782365915307
+Thiamin (mg),"Alcohol, ethyl (g)",-0.0012080376553182015
+Vitamin K (phylloquinone) (g),"Vitamin E, added (mg)",-0.0012025445741850598
+"Fatty acids, total saturated 12:0 (g)",Vitamin D2 (ergocalciferol) (g),-0.001178388255299489
+Pantothenic acid (mg),"Alcohol, ethyl (g)",-0.00116538520062478
+Theobromine (mg),"Fatty acids, total trans (g)",-0.0011593155909084174
+Fructose (g),"Fatty acids, total polyunsaturated 18:2 i (g)",-0.0011429954487886796
+"Fatty acids, total polyunsaturated 18:2 i (g)",Vitamin B-6 (mg),-0.0011423544031850784
+Theobromine (mg),Lycopene (g),-0.0011241140455894086
+"Vitamin E, added (mg)",Vitamin B-12 (g),-0.0011225187511190863
+"Fatty acids, total saturated 18:0 (g)","Vitamin E, added (mg)",-0.0011221569803458755
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Tocotrienol, beta (mg)",-0.0011165601189667244
+"Vitamin E, added (mg)","Fatty acids, total saturated 8:0 (g)",-0.0011134008430713938
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total trans-polyenoic 20:3 n-3 (g)",-0.0011110727585889886
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 16:1 t (g)",-0.0011082503645368908
+"Fatty acids, total saturated 12:0 (g)","Vitamin E, added (mg)",-0.001106184441197216
+"Fatty acids, total polyunsaturated 18:2 i (g)","Vitamin C, total ascorbic acid (mg)",-0.001102971920009088
+Theobromine (mg),"Fatty acids, total saturated 20:4 undifferentiated (g)",-0.001100724073589286
+"Fatty acids, total saturated 10:0 (g)","Vitamin E, added (mg)",-0.0010988116625897989
+"Vitamin E, added (mg)","Fatty acids, total saturated 18:3 undifferentiated (g)",-0.0010937953130563847
+"Tocopherol, beta (mg)","Vitamin E, added (mg)",-0.0010846463142109074
+Total lipid (fat) (g),"Alcohol, ethyl (g)",-0.0010798526495415601
+"Alcohol, ethyl (g)","Zinc, Zn (mg)",-0.0010783869975435954
+"Fatty acids, total saturated 16:1 undifferentiated (g)","Vitamin E, added (mg)",-0.0010748875783780955
+"Alcohol, ethyl (g)","Fiber, total dietary (g)",-0.0010707286684137997
+"Fatty acids, total polyunsaturated 18:2 t,t (g)",Cholesterol (mg),-0.0010692027576285252
+"Fatty acids, total trans (g)",Caffeine (mg),-0.0010622377137847576
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Carotene, beta (g)",-0.0010605910795280869
+Theobromine (mg),"Fluoride, F (g)",-0.0010525507924178756
+"Folate, food (g)","Vitamin E, added (mg)",-0.0010378525320258048
+Theobromine (mg),"Fatty acids, total trans-polyenoic (g)",-0.0010340622544061616
+Lycopene (g),"Vitamin E, added (mg)",-0.001018335691208419
+Caffeine (mg),Lycopene (g),-0.0010115880751337114
+Theobromine (mg),"Fatty acids, total trans-monoenoic (g)",-0.0010075227439008344
+"Carotene, alpha (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0010019199925985168
+Theobromine (mg),"Fatty acids, total polyunsaturated 18:2 t not further defined (g)",-0.0009927169223970063
+"Alcohol, ethyl (g)","Fatty acids, total saturated 16:0 (g)",-0.0009907939717269016
+Theobromine (mg),"Fatty acids, total polyunsaturated 18:1 t (g)",-0.0009861980721164003
+"Carotene, alpha (g)",Theobromine (mg),-0.0009802121735141209
+"Vitamin E, added (mg)","Fatty acids, total saturated 16:0 (g)",-0.0009705089489925356
+"Fatty acids, total monounsaturated (g)","Alcohol, ethyl (g)",-0.000969379364533737
+"Fatty acids, total saturated 20:4 undifferentiated (g)",Caffeine (mg),-0.0009683234825165507
+"Fatty acids, total polyunsaturated 22:1 t (g)","Fatty acids, total trans-polyenoic 13:0 (g)",-0.0009658871717235329
+"Fatty acids, total saturated 18:1 undifferentiated (g)","Alcohol, ethyl (g)",-0.000957296622715917
+Caffeine (mg),"Fluoride, F (g)",-0.0009537576797207398
+"Vitamin E, added (mg)",Galactose (g),-0.0009536964991481446
+Theobromine (mg),"Fatty acids, total polyunsaturated 18:2 CLAs (g)",-0.0009526065765587349
+"Fatty acids, total trans-polyenoic (g)",Caffeine (mg),-0.0009521614861033039
+"Fatty acids, total saturated (g)","Alcohol, ethyl (g)",-0.0009498028514873463
+Vitamin D2 (ergocalciferol) (g),"Cryptoxanthin, beta (g)",-0.0009495151607566355
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total saturated 4:0 (g)",-0.000936126497205896
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Vitamin A, RAE (g)",-0.0009348686235749904
+Dihydrophylloquinone (g),Lycopene (g),-0.0009299336457181349
+"Fatty acids, total trans-monoenoic (g)",Caffeine (mg),-0.0009277953593361758
+"Vitamin E, added (mg)","Zinc, Zn (mg)",-0.0009237572340499749
+"Fatty acids, total polyunsaturated 18:2 t not further defined (g)",Caffeine (mg),-0.00091488976017382
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Tocotrienol, gamma (mg)",-0.0009136142343174433
+"Alcohol, ethyl (g)","Phosphorus, P (mg)",-0.0009094096771893473
+Beta-sitosterol (mg),"Fatty acids, total trans-polyenoic 15:1 (g)",-0.0009048912663543545
+Caffeine (mg),"Fatty acids, total polyunsaturated 18:1 t (g)",-0.0009033616782331774
+"Carotene, beta (g)","Alcohol, ethyl (g)",-0.0009032247589742678
+"Fiber, total dietary (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.0009021960939117499
+"Fatty acids, total saturated 18:0 (g)","Alcohol, ethyl (g)",-0.0009010077906862999
+Vitamin D2 (ergocalciferol) (g),"Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0008998781934489752
+Menaquinone-4 (g),"Vitamin E, added (mg)",-0.0008880048744155367
+"Folate, DFE (g)","Alcohol, ethyl (g)",-0.0008877736360360152
+Vitamin D2 (ergocalciferol) (g),"Fatty acids, total saturated 8:0 (g)",-0.0008845807168658784
+"Fatty acids, total polyunsaturated 18:2 CLAs (g)",Caffeine (mg),-0.0008793462273135766
+"Alcohol, ethyl (g)","Fatty acids, total saturated 18:2 undifferentiated (g)",-0.000877042419417905
+"Alcohol, ethyl (g)","Folate, total (g)",-0.0008625289401382733
+"Carotene, alpha (g)",Caffeine (mg),-0.000862298916665677
+Vitamin D2 (ergocalciferol) (g),"Fatty acids, total saturated 10:0 (g)",-0.000852691384963279
+Betaine (mg),"Fatty acids, total polyunsaturated 18:2 i (g)",-0.0008469861642223637
+"Fatty acids, total polyunsaturated (g)","Alcohol, ethyl (g)",-0.0008467904967634069
+Hydroxyproline (g),Sucrose (g),-0.0008455637847869647
+"Fatty acids, total saturated 20:4 undifferentiated (g)","Alcohol, ethyl (g)",-0.0008405331249312944
+"Carotene, alpha (g)","Vitamin E, added (mg)",-0.0008405162159649058
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 17:1 (g)",-0.0008390726665147416
+"Vitamin E, added (mg)","Manganese, Mn (mg)",-0.0008349802700398292
+"Vitamin B-12, added (g)","Fatty acids, total trans-polyenoic 13:0 (g)",-0.0008349708604224091
+"Fatty acids, total polyunsaturated 18:2 i (g)",Lycopene (g),-0.0008341736978605668
+"Fatty acids, total saturated 16:1 undifferentiated (g)","Alcohol, ethyl (g)",-0.0008154888714175944
+"Fatty acids, total polyunsaturated 15:0 (g)",Theobromine (mg),-0.0008101826753848945
+Beta-sitosterol (mg),Vitamin D2 (ergocalciferol) (g),-0.0008089117043719806
+"Folate, food (g)","Alcohol, ethyl (g)",-0.0008074288261310032
+Cholesterol (mg),"Alcohol, ethyl (g)",-0.0008017276329878529
+"Vitamin A, IU (IU)","Alcohol, ethyl (g)",-0.000792964967544744
+"Tocopherol, beta (mg)","Alcohol, ethyl (g)",-0.0007927658069753654
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total trans-polyenoic 18:3i (g)",-0.0007868351826285458
+Riboflavin (mg),"Vitamin E, added (mg)",-0.000785622691180548
+Lutein + zeaxanthin (g),"Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0007832609932842961
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 20:3 undifferentiated (g)",-0.000780210030943504
+"Fatty acids, total trans-polyenoic 15:1 (g)",Campesterol (mg),-0.0007727443412177356
+"Fatty acids, total polyunsaturated 18:2 i (g)","Carotene, alpha (g)",-0.000771971247859012
+"Fatty acids, total saturated 14:1 (g)",Dihydrophylloquinone (g),-0.0007687371828168775
+"Fatty acids, total saturated 14:1 (g)",Theobromine (mg),-0.0007586966145721414
+"Fatty acids, total polyunsaturated 15:0 (g)",Caffeine (mg),-0.0007580010536774
+Vitamin K (phylloquinone) (g),"Alcohol, ethyl (g)",-0.0007515037922384817
+"Alcohol, ethyl (g)",Vitamin E (alpha-tocopherol) (mg),-0.0007511594223629086
+Dihydrophylloquinone (g),"Fatty acids, total polyunsaturated 15:0 (g)",-0.0007474215333747546
+"Vitamin E, added (mg)","Fluoride, F (g)",-0.0007465115887258123
+Theobromine (mg),"Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)",-0.0007449858358652139
+Vitamin B-12 (g),"Alcohol, ethyl (g)",-0.0007402041130247359
+Lactose (g),"Fatty acids, total polyunsaturated 22:1 t (g)",-0.0007382405378058463
+"Vitamin E, added (mg)",Vitamin B-6 (mg),-0.0007370594380175292
+"Fatty acids, total trans-monoenoic (g)",Dihydrophylloquinone (g),-0.0007369489052033985
+"Fatty acids, total polyunsaturated 18:2 t,t (g)",Theobromine (mg),-0.0007356579056434668
+Vitamin D2 (ergocalciferol) (g),"Tocotrienol, beta (mg)",-0.0007330014788906955
+"Vitamin E, added (mg)",Starch (g),-0.0007327730927307833
+"Fatty acids, total polyunsaturated 18:1 t (g)",Dihydrophylloquinone (g),-0.0007314714126299589
+Total lipid (fat) (g),"Vitamin E, added (mg)",-0.0007256984345986705
+Lycopene (g),"Alcohol, ethyl (g)",-0.0007225830951433312
+Theobromine (mg),"Fatty acids, total trans-polyenoic 20:3 n-3 (g)",-0.0007211886035987992
+"Fatty acids, total polyunsaturated 18:2 t,t (g)",Galactose (g),-0.0007172852297318438
+Betaine (mg),"Alcohol, ethyl (g)",-0.0007076311450942694
+"Fatty acids, total trans (g)",Dihydrophylloquinone (g),-0.00070758190867932
+"Alcohol, ethyl (g)","Fatty acids, total saturated 18:3 undifferentiated (g)",-0.0007062631817558237
+"Vitamin E, added (mg)",Lactose (g),-0.000706106942592127
+Caffeine (mg),"Fatty acids, total saturated 14:1 (g)",-0.00069882119331519
+Adjusted Protein (g),Sucrose (g),-0.0006987110292610995
+"Choline, total (mg)","Alcohol, ethyl (g)",-0.0006980829287477156
+"Fatty acids, total polyunsaturated 18:2 t,t (g)",Maltose (g),-0.0006902388881450945
+"Fatty acids, total trans-polyenoic 15:1 (g)","Tocotrienol, beta (mg)",-0.0006886516435760482
+"Fatty acids, total polyunsaturated 18:2 t,t (g)",Retinol (g),-0.0006861269530848187
+"Fatty acids, total polyunsaturated 17:0 (g)",Dihydrophylloquinone (g),-0.0006830550372250586
+Adjusted Protein (g),Phytosterols (mg),-0.0006817987149891799
+"Fatty acids, total polyunsaturated 18:2 i (g)","Carotene, beta (g)",-0.0006803212583107186
+"Folate, DFE (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.0006788354843240657
+"Fatty acids, total trans-polyenoic 13:0 (g)",Phytosterols (mg),-0.0006763413994596409
+"Fatty acids, total polyunsaturated 18:2 CLAs (g)",Dihydrophylloquinone (g),-0.0006738914419893067
+Dihydrophylloquinone (g),"Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0006700339551559047
+"Alcohol, ethyl (g)","Fatty acids, total saturated 14:0 (g)",-0.0006656937597965805
+"Alcohol, ethyl (g)","Carotene, alpha (g)",-0.0006626778515896183
+"Fatty acids, total polyunsaturated 18:2 i (g)",Starch (g),-0.0006570732925995742
+Caffeine (mg),"Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0006528576549079165
+"Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)",Caffeine (mg),-0.0006519781930158569
+"Vitamin E, added (mg)","Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)",-0.0006491937740101551
+Dihydrophylloquinone (g),"Fatty acids, total saturated 16:1 undifferentiated (g)",-0.0006489835146884535
+Ash (g),"Vitamin E, added (mg)",-0.0006442657567380187
+"Alcohol, ethyl (g)","Fatty acids, total saturated 20:0 (g)",-0.0006433105786019901
+"Vitamin E, added (mg)","Tocotrienol, gamma (mg)",-0.0006416485306037134
+"Fatty acids, total trans-polyenoic 20:3 n-3 (g)",Caffeine (mg),-0.0006403220873475507
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.0006346378095054718
+"Fatty acids, total polyunsaturated 18:2 i (g)",Folic acid (g),-0.0006344746718976388
+"Alcohol, ethyl (g)",Lutein + zeaxanthin (g),-0.0006342714062420753
+"Fatty acids, total polyunsaturated 18:2 i (g)","Folate, total (g)",-0.000631917154625755
+Theobromine (mg),Galactose (g),-0.0006271668234067441
+"Fatty acids, total trans-polyenoic 15:1 (g)","Cryptoxanthin, beta (g)",-0.0006266016149084689
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total trans-polyenoic 22:4 (g)",-0.000626322641409611
+"Vitamin E, added (mg)","Tocopherol, gamma (mg)",-0.0006244200771906368
+"Vitamin E, added (mg)","Vitamin A, IU (IU)",-0.0006212717342423871
+"Alcohol, ethyl (g)",Campesterol (mg),-0.0006183834410175671
+"Fatty acids, total trans-polyenoic 20:3 n-6 (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0006148917474615773
+Cholesterol (mg),Theobromine (mg),-0.0006137254399112235
+Hydroxyproline (g),"Vitamin E, added (mg)",-0.0006124095478239266
+"Fatty acids, total saturated 22:0 (g)","Alcohol, ethyl (g)",-0.0006103702113241463
+"Tocotrienol, beta (mg)",Stigmasterol (mg),-0.0006059304553768321
+Phytosterols (mg),"Vitamin E, added (mg)",-0.0006054519524571765
+"Fatty acids, total trans-polyenoic 15:1 (g)",Theobromine (mg),-0.0006026786680693532
+"Fatty acids, total trans-polyenoic 15:1 (g)",Folic acid (g),-0.0006019910465367139
+"Fluoride, F (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0006017508849096641
+"Alcohol, ethyl (g)",Vitamin B-6 (mg),-0.0006016759952732159
+Caffeine (mg),"Fatty acids, total polyunsaturated 17:0 (g)",-0.0006016371642556634
+"Vitamin C, total ascorbic acid (mg)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0005993269955663431
+"Vitamin B-12, added (g)","Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)",-0.0005990753624091471
+"Vitamin B-12, added (g)","Fatty acids, total trans-polyenoic 20:3 n-3 (g)",-0.0005986239920440323
+Dihydrophylloquinone (g),"Fatty acids, total trans-polyenoic (g)",-0.000597259137612413
+"Vitamin E, added (mg)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0005969066380123422
+"Fatty acids, total trans-polyenoic 18:3i (g)","Fatty acids, total trans-polyenoic 15:1 (g)",-0.0005946324723526427
+Adjusted Protein (g),"Fatty acids, total saturated 12:0 (g)",-0.0005805443404402427
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total trans-polyenoic 15:1 (g)",-0.0005798915208892516
+Thiamin (mg),"Fatty acids, total polyunsaturated 18:2 i (g)",-0.0005786736981286889
+"Folate, food (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.000578643123985814
+Dihydrophylloquinone (g),"Fatty acids, total polyunsaturated 18:2 t not further defined (g)",-0.0005786155792493359
+Caffeine (mg),Galactose (g),-0.0005757990733550694
+"Tocotrienol, delta (mg)",Theobromine (mg),-0.0005754971285042784
+Folic acid (g),"Fatty acids, total trans-polyenoic 18:3i (g)",-0.000575437430906725
+"Fatty acids, total polyunsaturated 17:0 (g)",Theobromine (mg),-0.0005746478902608112
+Beta-sitosterol (mg),"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.0005694550234072183
+"Fatty acids, total saturated 4:0 (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0005690988952770062
+Adjusted Protein (g),"Carotene, beta (g)",-0.0005687810158071543
+"Fatty acids, total trans-polyenoic 20:3 n-3 (g)",Dihydrophylloquinone (g),-0.0005682578363526489
+"Vitamin B-12, added (g)","Fatty acids, total polyunsaturated 16:1 t (g)",-0.0005679014913757147
+Stigmasterol (mg),"Fatty acids, total polyunsaturated 18:2 CLAs (g)",-0.000567102727415073
+"Tocotrienol, gamma (mg)","Fatty acids, total trans-polyenoic 15:1 (g)",-0.0005662818760967069
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Alcohol, ethyl (g)",-0.0005653413342020646
+Lycopene (g),"Fatty acids, total polyunsaturated 22:1 t (g)",-0.0005652821939740831
+Lycopene (g),Adjusted Protein (g),-0.0005619791792132597
+"Fatty acids, total trans-polyenoic 15:1 (g)",Stigmasterol (mg),-0.0005563259837381693
+"Fatty acids, total monounsaturated (g)","Vitamin E, added (mg)",-0.0005534981554336372
+"Tocopherol, gamma (mg)","Alcohol, ethyl (g)",-0.0005529572463910788
+Maltose (g),Vitamin D2 (ergocalciferol) (g),-0.0005497724543343409
+"Fatty acids, total polyunsaturated 20:3 undifferentiated (g)",Theobromine (mg),-0.0005483833007101619
+"Fatty acids, total saturated 16:1 undifferentiated (g)",Caffeine (mg),-0.0005482493229786395
+Dihydrophylloquinone (g),"Vitamin C, total ascorbic acid (mg)",-0.0005467774248258832
+Beta-sitosterol (mg),"Alcohol, ethyl (g)",-0.000545969884048346
+"Fatty acids, total polyunsaturated 18:2 i (g)","Tocotrienol, beta (mg)",-0.0005431077827972394
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",Sucrose (g),-0.0005416629129473673
+Lactose (g),"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0005411530139672697
+"Cryptoxanthin, beta (g)",Adjusted Protein (g),-0.0005348333963654543
+"Alcohol, ethyl (g)",Folic acid (g),-0.0005322757117069353
+"Fatty acids, total trans-polyenoic 15:1 (g)",Caffeine (mg),-0.0005259328751903795
+"Alcohol, ethyl (g)","Fatty acids, total saturated 10:0 (g)",-0.0005254579200745006
+"Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)","Alcohol, ethyl (g)",-0.0005251279215980865
+"Tocotrienol, delta (mg)",Caffeine (mg),-0.0005201046614428884
+Hydroxyproline (g),Theobromine (mg),-0.0005122689212980356
+"Cryptoxanthin, beta (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.0005120655362198735
+"Fatty acids, total polyunsaturated 18:2 i (g)","Manganese, Mn (mg)",-0.0005118273671218687
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 22:1 c (g)",-0.0005116795929013947
+Galactose (g),Dihydrophylloquinone (g),-0.0005062119626777183
+Lycopene (g),Folic acid (g),-0.000504738827039111
+"Fatty acids, total saturated 16:1 undifferentiated (g)",Theobromine (mg),-0.0005046500722042291
+"Vitamin E, added (mg)","Fatty acids, total saturated 18:1 undifferentiated (g)",-0.0005045315467401203
+"Fatty acids, total saturated 20:4 undifferentiated (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.000504240419546825
+Starch (g),Vitamin D2 (ergocalciferol) (g),-0.0005013605919958696
+Stigmasterol (mg),"Fatty acids, total trans-polyenoic 22:4 (g)",-0.0005004544042540446
+Galactose (g),"Alcohol, ethyl (g)",-0.0004996916450026754
+Adjusted Protein (g),"Vitamin A, IU (IU)",-0.0004994585431219077
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 24:0 (g)",-0.0004980474244367468
+"Fatty acids, total polyunsaturated 20:3 undifferentiated (g)","Vitamin B-12, added (g)",-0.000497924505550343
+"Vitamin C, total ascorbic acid (mg)","Alcohol, ethyl (g)",-0.0004950443726831254
+"Fatty acids, total polyunsaturated 18:2 i (g)","Tocotrienol, gamma (mg)",-0.0004936039105257655
+"Alcohol, ethyl (g)","Copper, Cu (mg)",-0.0004885242712294976
+"Alcohol, ethyl (g)",Starch (g),-0.0004881480514964547
+Maltose (g),"Vitamin E, added (mg)",-0.00048743128177923333
+"Fatty acids, total trans-polyenoic 13:0 (g)","Tocotrienol, beta (mg)",-0.00048704386477922646
+"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",Campesterol (mg),-0.0004855371770057256
+"Fatty acids, total polyunsaturated 20:3 undifferentiated (g)",Caffeine (mg),-0.0004843237084729953
+"Fatty acids, total trans-polyenoic (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0004807024054825636
+Folic acid (g),Adjusted Protein (g),-0.00047940344525548503
+"Fatty acids, total trans-polyenoic 18:3 n-3 c,c,c (ALA) (g)",Theobromine (mg),-0.0004783798245251545
+Vitamin D2 (ergocalciferol) (g),"Vitamin B-12, added (g)",-0.00047787144629175945
+"Fatty acids, total saturated 22:1 undifferentiated (g)",Sucrose (g),-0.00047711691489398634
+Theobromine (mg),"Tocotrienol, gamma (mg)",-0.0004762612635973636
+"Vitamin B-12, added (g)",Galactose (g),-0.00047593813173107735
+"Tocotrienol, delta (mg)","Fatty acids, total trans-polyenoic 15:1 (g)",-0.00047431556065997743
+"Vitamin E, added (mg)","Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.00047426859792841795
+"Fatty acids, total saturated 12:0 (g)","Alcohol, ethyl (g)",-0.0004717205189576006
+Theobromine (mg),"Fatty acids, total trans-polyenoic 18:3i (g)",-0.0004707707174908052
+Vitamin D2 (ergocalciferol) (g),"Fatty acids, total polyunsaturated 18:2 i (g)",-0.00047031654841773275
+"Fatty acids, total polyunsaturated 18:2 t not further defined (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0004668215608626711
+"Fatty acids, total polyunsaturated 22:1 t (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0004662346558816379
+"Fatty acids, total polyunsaturated 16:1 t (g)",Dihydrophylloquinone (g),-0.00046385160672958876
+"Fatty acids, total polyunsaturated 18:2 i (g)",Protein (g),-0.00046344754289763627
+Adjusted Protein (g),"Tocotrienol, beta (mg)",-0.00046336601428983694
+"Vitamin C, total ascorbic acid (mg)",Adjusted Protein (g),-0.00046306726919474115
+"Alcohol, ethyl (g)","Fatty acids, total saturated 20:1 (g)",-0.00046297605334564315
+Adjusted Protein (g),"Carotene, alpha (g)",-0.00046186508480662667
+Cholesterol (mg),Caffeine (mg),-0.00045892156177105084
+Caffeine (mg),Hydroxyproline (g),-0.00045824226494595253
+"Fatty acids, total polyunsaturated 15:0 (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00045702488050822893
+"Alcohol, ethyl (g)","Fatty acids, total polyunsaturated 24:0 (g)",-0.00045588163110296036
+Dihydrophylloquinone (g),"Fatty acids, total saturated 20:4 undifferentiated (g)",-0.0004511193745318874
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Vitamin B-12, added (g)",-0.00045054417185440293
+Vitamin D2 (ergocalciferol) (g),Galactose (g),-0.0004494113496056192
+"Fatty acids, total saturated 8:0 (g)","Alcohol, ethyl (g)",-0.00044680228941227447
+"Fatty acids, total trans-polyenoic 18:3 n-3 c,c,c (ALA) (g)","Alcohol, ethyl (g)",-0.000441992189929647
+Theobromine (mg),"Fatty acids, total polyunsaturated 18:3 n-6 c,c,c (g)",-0.00044175573629897866
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)",-0.0004416530372527476
+Caffeine (mg),"Fatty acids, total trans-polyenoic 18:3i (g)",-0.00043974500585428105
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 16:1 c (g)",-0.00043965580404019765
+Maltose (g),Theobromine (mg),-0.0004393771819106568
+Caffeine (mg),"Fatty acids, total trans-polyenoic 18:3 n-3 c,c,c (ALA) (g)",-0.0004390794393575173
+Stigmasterol (mg),"Fatty acids, total saturated 14:1 (g)",-0.00043490847065877467
+"Alcohol, ethyl (g)","Tocotrienol, alpha (mg)",-0.0004307964414950157
+Phytosterols (mg),"Alcohol, ethyl (g)",-0.00042948443352457957
+"Vitamin E, added (mg)","Tocopherol, delta (mg)",-0.0004281461346632596
+"Fatty acids, total polyunsaturated 18:2 i (g)","Zinc, Zn (mg)",-0.0004280859611320532
+Glycine (g),"Fatty acids, total polyunsaturated 18:2 i (g)",-0.00042619039691593475
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.00042606119248868145
+"Vitamin C, total ascorbic acid (mg)","Vitamin E, added (mg)",-0.00042580202317448845
+"Tocotrienol, beta (mg)","Alcohol, ethyl (g)",-0.00042458779944302787
+"Tocopherol, delta (mg)","Fatty acids, total trans-polyenoic 15:1 (g)",-0.0004200711686601779
+"Tocotrienol, delta (mg)",Vitamin D2 (ergocalciferol) (g),-0.00041770634010033033
+"Fatty acids, total trans-polyenoic 13:0 (g)",Hydroxyproline (g),-0.000411357957517465
+Theobromine (mg),"Fatty acids, total polyunsaturated 22:1 c (g)",-0.0004111681884741856
+"Fatty acids, total polyunsaturated 16:1 c (g)",Theobromine (mg),-0.0004108001046082307
+"Selenium, Se (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.000410509403596672
+"Fatty acids, total saturated 8:0 (g)",Adjusted Protein (g),-0.0004090055571214522
+Stigmasterol (mg),"Fatty acids, total polyunsaturated 20:3 undifferentiated (g)",-0.0004086081041815703
+"Tocotrienol, gamma (mg)",Adjusted Protein (g),-0.0004063699637650659
+"Fatty acids, total polyunsaturated 18:2 t,t (g)",Adjusted Protein (g),-0.0004028870549123226
+Menaquinone-4 (g),"Fatty acids, total polyunsaturated 22:1 t (g)",-0.0004018812215063191
+"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)","Tocotrienol, delta (mg)",-0.0003998861938529541
+"Fatty acids, total trans-polyenoic 20:3 n-6 (g)",Theobromine (mg),-0.0003971209695217965
+Galactose (g),Adjusted Protein (g),-0.0003951549091950027
+Dihydrophylloquinone (g),"Fatty acids, total polyunsaturated 16:1 c (g)",-0.00039477014102815407
+Caffeine (mg),Maltose (g),-0.0003933221626589067
+"Fatty acids, total trans-polyenoic 20:3 n-6 (g)",Stigmasterol (mg),-0.00038996757017588124
+"Fatty acids, total polyunsaturated 18:2 i (g)",Lutein + zeaxanthin (g),-0.00038729826668212035
+"Fatty acids, total trans-polyenoic 20:3 n-6 (g)","Vitamin B-12, added (g)",-0.00038692407170006773
+"Tocotrienol, gamma (mg)",Caffeine (mg),-0.00038646630715476074
+"Tocotrienol, gamma (mg)","Alcohol, ethyl (g)",-0.0003857136634599875
+Theobromine (mg),"Fatty acids, total trans-polyenoic 22:4 (g)",-0.00038525114493906474
+"Fatty acids, total polyunsaturated 18:3 n-6 c,c,c (g)",Caffeine (mg),-0.000383845403514593
+Campesterol (mg),"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00038214940441141845
+Dihydrophylloquinone (g),"Tocotrienol, gamma (mg)",-0.00038162847405835915
+"Fatty acids, total trans-polyenoic 15:1 (g)","Alcohol, ethyl (g)",-0.00038136854394453014
+"Alcohol, ethyl (g)",Vitamin D2 (ergocalciferol) (g),-0.0003810428068881139
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Choline, total (mg)",-0.00038092306531615594
+Stigmasterol (mg),"Fatty acids, total polyunsaturated 22:1 c (g)",-0.000379893366554478
+Dihydrophylloquinone (g),"Fatty acids, total trans-polyenoic 15:1 (g)",-0.0003782995226527405
+Hydroxyproline (g),"Vitamin B-12, added (g)",-0.0003775137109075161
+Vitamin D2 (ergocalciferol) (g),"Fatty acids, total saturated 14:0 (g)",-0.0003764715039256377
+"Fatty acids, total saturated 22:5 n-3 (DPA) (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.00037582953123622195
+"Fatty acids, total trans-polyenoic 18:3i (g)","Vitamin B-12, added (g)",-0.0003756044513133799
+"Alcohol, ethyl (g)","Fatty acids, total polyunsaturated 18:2 n-6 c,c (g)",-0.00037366507427549246
+"Tocotrienol, delta (mg)","Alcohol, ethyl (g)",-0.00037257743807295223
+"Fatty acids, total trans-polyenoic 15:1 (g)",Adjusted Protein (g),-0.0003722366972313875
+"Vitamin B-12, added (g)","Fatty acids, total trans-polyenoic 22:4 (g)",-0.00037075796592150596
+Stigmasterol (mg),"Tocotrienol, delta (mg)",-0.00037068467259992907
+"Fatty acids, total trans-polyenoic 20:3 n-3 (g)",Campesterol (mg),-0.000368851740492879
+Caffeine (mg),"Fatty acids, total polyunsaturated 22:1 c (g)",-0.00036722083500464304
+"Tocotrienol, delta (mg)",Adjusted Protein (g),-0.0003660788583258311
+Sucrose (g),"Fatty acids, total saturated 18:4 (g)",-0.00036591790043540083
+"Fatty acids, total polyunsaturated 16:1 c (g)",Caffeine (mg),-0.00036462797325769836
+"Fatty acids, total polyunsaturated 18:3 n-6 c,c,c (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.00036403107102280684
+Hydroxyproline (g),"Fatty acids, total polyunsaturated 18:2 i (g)",-0.0003630996332562401
+"Fatty acids, total polyunsaturated 16:1 c (g)",Stigmasterol (mg),-0.0003614093120477668
+Caffeine (mg),Folic acid (g),-0.00036010484212571593
+"Fatty acids, total polyunsaturated 18:3 n-6 c,c,c (g)","Vitamin B-12, added (g)",-0.0003562346874123409
+"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",Vitamin D2 (ergocalciferol) (g),-0.00035542113054951697
+"Copper, Cu (mg)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.0003526751633573026
+Theobromine (mg),Vitamin B-12 (g),-0.00035212830579019834
+"Vitamin E, added (mg)","Cryptoxanthin, beta (g)",-0.0003520970423193903
+Adjusted Protein (g),"Fluoride, F (g)",-0.00035148325369305347
+"Alcohol, ethyl (g)","Fatty acids, total polyunsaturated 18:3 n-6 c,c,c (g)",-0.0003513292598803262
+Maltose (g),"Fatty acids, total trans-polyenoic 15:1 (g)",-0.00035113505083451366
+"Fatty acids, total saturated 20:1 (g)",Adjusted Protein (g),-0.0003504061947968513
+Caffeine (mg),"Fatty acids, total trans-polyenoic 20:3 n-6 (g)",-0.0003500217554138325
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)",Sucrose (g),-0.00034914010455888077
+Stigmasterol (mg),"Fatty acids, total trans-polyenoic 20:3 n-3 (g)",-0.00034837378752956854
+Vitamin K (phylloquinone) (g),Theobromine (mg),-0.0003478965767678186
+"Fatty acids, total polyunsaturated 17:1 (g)",Theobromine (mg),-0.0003478833215865501
+Theobromine (mg),"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.0003455069642030538
+"Vitamin E, added (mg)","Folate, total (g)",-0.00034532166841481476
+"Fatty acids, total trans-polyenoic 20:3 n-6 (g)",Dihydrophylloquinone (g),-0.0003446467690449889
+"Fatty acids, total polyunsaturated 18:2 i (g)",Maltose (g),-0.0003436782068526006
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total polyunsaturated 17:0 (g)",-0.00034359631674142003
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",Beta-sitosterol (mg),-0.0003426330731891708
+Lycopene (g),Vitamin D2 (ergocalciferol) (g),-0.00034239720034911266
+"Tocotrienol, beta (mg)","Vitamin E, added (mg)",-0.00034119824497877687
+"Alcohol, ethyl (g)","Fatty acids, total polyunsaturated 18:1 c (g)",-0.0003411706712667776
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total saturated 22:1 undifferentiated (g)",-0.00034104637617051185
+"Fatty acids, total polyunsaturated 20:3 undifferentiated (g)",Dihydrophylloquinone (g),-0.00034083530242786194
+Theobromine (mg),"Tocotrienol, beta (mg)",-0.0003391710657589497
+Betaine (mg),"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0003381557177506854
+"Alcohol, ethyl (g)",Riboflavin (mg),-0.0003378365054709344
+"Fatty acids, total polyunsaturated 16:1 t (g)",Caffeine (mg),-0.00033499167458483914
+"Fatty acids, total trans-polyenoic 20:3 n-3 (g)","Alcohol, ethyl (g)",-0.00033447106438765274
+Hydroxyproline (g),"Alcohol, ethyl (g)",-0.0003336187649338241
+"Fatty acids, total polyunsaturated 16:1 c (g)","Vitamin B-12, added (g)",-0.00033322420334465385
+"Alcohol, ethyl (g)",Menaquinone-4 (g),-0.00033280176721436113
+"Fatty acids, total saturated 22:0 (g)",Caffeine (mg),-0.00033065033309494685
+"Fatty acids, total trans-polyenoic 22:4 (g)",Caffeine (mg),-0.0003304636419241519
+"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",Stigmasterol (mg),-0.0003301229681935514
+Lutein + zeaxanthin (g),Adjusted Protein (g),-0.00032794968775381447
+Beta-sitosterol (mg),"Vitamin E, added (mg)",-0.0003260077357131465
+"Alcohol, ethyl (g)",Stigmasterol (mg),-0.00032431860682031804
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 18:2 n-6 c,c (g)",-0.0003235247172951224
+"Fatty acids, total saturated 4:0 (g)",Hydroxyproline (g),-0.00031852577430975477
+"Fatty acids, total polyunsaturated 24:1 c (g)",Caffeine (mg),-0.000316926675627679
+"Vitamin E, added (mg)","Fatty acids, total polyunsaturated 18:3 n-6 c,c,c (g)",-0.00031512063183009313
+"Fatty acids, total trans-polyenoic 22:4 (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-0.0003097034129364024
+"Calcium, Ca (mg)","Vitamin E, added (mg)",-0.0003089626655121833
+"Alcohol, ethyl (g)",Dihydrophylloquinone (g),-0.0003066322508195573
+Hydroxyproline (g),Galactose (g),-0.0003063765299372194
+Starch (g),"Fatty acids, total trans-polyenoic 15:1 (g)",-0.00030635918255271375
+"Fatty acids, total trans-polyenoic 18:3 n-3 c,c,c (ALA) (g)","Vitamin E, added (mg)",-0.00030497602718933795
+Cholesterol (mg),Dihydrophylloquinone (g),-0.0003046554262886185
+Caffeine (mg),"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.0003043031973163345
+"Fatty acids, total polyunsaturated 18:2 n-6 c,c (g)","Vitamin E, added (mg)",-0.0003040305808505923
+"Alcohol, ethyl (g)","Vitamin A, RAE (g)",-0.0003038638876366484
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-0.0003020483119484934
+Menaquinone-4 (g),"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00029631845927028647
+Folic acid (g),Theobromine (mg),-0.0002954870058196074
+"Fatty acids, total polyunsaturated 18:2 i (g)",Cystine (g),-0.0002951816730984273
+"Fatty acids, total trans-polyenoic 20:3 n-3 (g)",Adjusted Protein (g),-0.000291770122279817
+Theobromine (mg),"Fatty acids, total polyunsaturated 16:1 t (g)",-0.0002917020785218879
+Thiamin (mg),"Vitamin E, added (mg)",-0.00029044037561390884
+"Fatty acids, total polyunsaturated 22:1 t (g)","Fatty acids, total trans-polyenoic 15:1 (g)",-0.0002903349782095301
+Vitamin D2 (ergocalciferol) (g),Hydroxyproline (g),-0.000289925507354712
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 18:3 n-6 c,c,c (g)",-0.0002881283626714148
+Sucrose (g),"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-0.00028648694087239835
+"Vitamin E, added (mg)","Sodium, Na (mg)",-0.00028631543651320887
+"Fatty acids, total saturated 10:0 (g)",Adjusted Protein (g),-0.0002844178399997325
+"Fatty acids, total polyunsaturated 24:1 c (g)","Vitamin B-12, added (g)",-0.0002833679806101995
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",Galactose (g),-0.0002810303425313362
+"Tocotrienol, beta (mg)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0002808330560203674
+"Fatty acids, total polyunsaturated 17:1 (g)",Dihydrophylloquinone (g),-0.0002798001643827383
+"Fatty acids, total polyunsaturated 22:1 c (g)","Vitamin B-12, added (g)",-0.0002795397910818282
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Fatty acids, total polyunsaturated 17:1 (g)",-0.00027912334796526293
+"Fatty acids, total polyunsaturated 17:0 (g)","Alcohol, ethyl (g)",-0.0002773666412005872
+"Fatty acids, total polyunsaturated 22:1 t (g)","Fatty acids, total trans-polyenoic 18:3i (g)",-0.00027562170248176095
+Adjusted Protein (g),Hydroxyproline (g),-0.0002752359803973393
+"Vitamin B-12, added (g)","Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.00027455164475760066
+Starch (g),Adjusted Protein (g),-0.0002725611038255033
+Vitamin E (alpha-tocopherol) (mg),Adjusted Protein (g),-0.00027157619513591615
+Maltose (g),Adjusted Protein (g),-0.00027124081257530295
+"Fatty acids, total polyunsaturated 18:2 i (g)",Adjusted Protein (g),-0.0002708529063889213
+Vitamin K (phylloquinone) (g),Caffeine (mg),-0.00027041461161394484
+"Fatty acids, total trans-polyenoic 13:0 (g)","Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-0.00027030386108220196
+Maltose (g),"Alcohol, ethyl (g)",-0.0002696073517139838
+"Fatty acids, total polyunsaturated 22:1 t (g)",Vitamin D2 (ergocalciferol) (g),-0.00026672045152347347
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-0.00026522000041831007
+Dihydrophylloquinone (g),"Fatty acids, total trans-polyenoic 22:4 (g)",-0.0002641090724929484
+"Alcohol, ethyl (g)","Vitamin E, added (mg)",-0.0002638987855058873
+Vitamin K (phylloquinone) (g),"Fatty acids, total trans-polyenoic 13:0 (g)",-0.0002637536470451233
+"Alcohol, ethyl (g)","Manganese, Mn (mg)",-0.00026369761611616977
+Dihydrophylloquinone (g),"Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)",-0.00026279934164439824
+"Fatty acids, total trans-polyenoic 20:3 n-6 (g)",Maltose (g),-0.00026031863685581515
+"Fatty acids, total polyunsaturated 24:1 c (g)","Vitamin E, added (mg)",-0.0002545583323562405
+Theobromine (mg),"Tocopherol, delta (mg)",-0.00025422128950932136
+Theobromine (mg),"Fatty acids, total polyunsaturated 24:1 c (g)",-0.00025352611111033763
+"Tocotrienol, gamma (mg)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00025177383871017906
+"Fatty acids, total polyunsaturated 18:2 n-6 c,c (g)",Theobromine (mg),-0.00025142110900770867
+"Fatty acids, total polyunsaturated 17:1 (g)",Caffeine (mg),-0.0002504181049158109
+Dihydrophylloquinone (g),"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.0002499257284922274
+"Fatty acids, total polyunsaturated 18:2 t not further defined (g)",Stigmasterol (mg),-0.00024968452263570524
+"Fatty acids, total polyunsaturated 18:2 i (g)","Alcohol, ethyl (g)",-0.0002479653977440778
+"Alcohol, ethyl (g)",Vitamin D (IU),-0.0002464177136747766
+"Alcohol, ethyl (g)","Fatty acids, total trans-polyenoic 22:4 (g)",-0.0002447668165060765
+"Fatty acids, total saturated 22:5 n-3 (DPA) (g)","Vitamin E, added (mg)",-0.00024266642761638742
+Starch (g),"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00024262755906594307
+Campesterol (mg),"Fatty acids, total trans-polyenoic 22:4 (g)",-0.00024234624442015924
+Vitamin D (D2 + D3) (g),"Alcohol, ethyl (g)",-0.00024224288340549103
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Cryptoxanthin, beta (g)",-0.00023804429382448812
+"Alcohol, ethyl (g)","Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.00023795811883706584
+"Fatty acids, total polyunsaturated 22:1 t (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.00023662585860171825
+"Fatty acids, total saturated 22:1 undifferentiated (g)","Vitamin E, added (mg)",-0.0002356470355499661
+"Carotene, alpha (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-0.00023551645947162642
+Dihydrophylloquinone (g),"Cryptoxanthin, beta (g)",-0.00023080460584961422
+"Fatty acids, total saturated 18:4 (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.0002307255107425989
+"Tocopherol, delta (mg)",Caffeine (mg),-0.00022958765475122962
+Theobromine (mg),"Fatty acids, total saturated 22:5 n-3 (DPA) (g)",-0.00022758337968715312
+"Fatty acids, total polyunsaturated 24:1 c (g)",Adjusted Protein (g),-0.00022608296725207459
+"Fatty acids, total polyunsaturated 20:3 undifferentiated (g)","Alcohol, ethyl (g)",-0.00022599878791316599
+"Fatty acids, total polyunsaturated 16:1 c (g)",Maltose (g),-0.00022502733159837746
+Adjusted Protein (g),"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.0002247701030844263
+Caffeine (mg),"Tocotrienol, beta (mg)",-0.0002243627492727158
+Vitamin D2 (ergocalciferol) (g),"Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-0.00022041673849624514
+Galactose (g),"Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-0.00022030500528700384
+"Fatty acids, total polyunsaturated 24:1 c (g)","Alcohol, ethyl (g)",-0.00022023774180003484
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",Dihydrophylloquinone (g),-0.0002195677280674905
+"Alcohol, ethyl (g)","Fatty acids, total polyunsaturated 16:1 c (g)",-0.00021630653934690976
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)","Vitamin E, added (mg)",-0.00021480902266825608
+"Tocotrienol, delta (mg)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0002140454310411175
+"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",Galactose (g),-0.0002132385181708482
+"Vitamin E, added (mg)","Fatty acids, total polyunsaturated 22:1 t (g)",-0.00021254973744374287
+"Fatty acids, total polyunsaturated 24:1 c (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.00021249998342475005
+"Fatty acids, total trans-polyenoic 22:4 (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.000211474270259534
+Maltose (g),Hydroxyproline (g),-0.00021119712392664465
+"Fatty acids, total polyunsaturated 16:1 c (g)",Campesterol (mg),-0.00021050437518439058
+"Fatty acids, total saturated 22:1 undifferentiated (g)",Vitamin D2 (ergocalciferol) (g),-0.00020904100811749312
+"Fatty acids, total trans-polyenoic 18:3i (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00020901838619896977
+"Vitamin B-12, added (g)",Campesterol (mg),-0.0002082953901742549
+"Fatty acids, total polyunsaturated 18:2 i (g)","Fluoride, F (g)",-0.00020821822531403802
+"Sodium, Na (mg)","Alcohol, ethyl (g)",-0.00020792261867116712
+"Fatty acids, total polyunsaturated 18:2 i (g)","Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.0002073350515030225
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",Stigmasterol (mg),-0.00020705790904020012
+"Fatty acids, total polyunsaturated 18:2 t,t (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0002058573831275619
+"Fatty acids, total trans (g)",Adjusted Protein (g),-0.00020524365171359238
+Caffeine (mg),"Fatty acids, total saturated 22:5 n-3 (DPA) (g)",-0.00020469306043173913
+"Fatty acids, total polyunsaturated 16:1 c (g)",Adjusted Protein (g),-0.0002040782699194071
+"Fatty acids, total polyunsaturated 22:1 c (g)",Campesterol (mg),-0.000203820804829261
+"Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.0002037477678334618
+Vitamin D2 (ergocalciferol) (g),"Vitamin C, total ascorbic acid (mg)",-0.0001979207168390091
+"Fatty acids, total saturated 16:1 undifferentiated (g)","Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.00019639970668833013
+"Fatty acids, total polyunsaturated 22:1 t (g)",Hydroxyproline (g),-0.00019388876954807088
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",Theobromine (mg),-0.00019296535467376032
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 20:3 undifferentiated (g)",-0.00019278379417000932
+"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-0.00018655077554564675
+"Alcohol, ethyl (g)",Ash (g),-0.00018645278739851264
+"Vitamin E, added (mg)","Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-0.00018620269228113677
+Theobromine (mg),"Fatty acids, total saturated 22:1 undifferentiated (g)",-0.0001860854613606761
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)","Fatty acids, total trans-polyenoic 13:0 (g)",-0.00018423629886430638
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",Hydroxyproline (g),-0.00018264763444542756
+Adjusted Protein (g),"Fatty acids, total trans-polyenoic 22:4 (g)",-0.00018242950855656452
+Vitamin B-12 (g),Dihydrophylloquinone (g),-0.00018090896459458384
+"Carbohydrate, by difference (g)","Fatty acids, total trans-polyenoic 15:1 (g)",-0.000179899786677208
+Dihydrophylloquinone (g),"Fatty acids, total saturated 22:5 n-3 (DPA) (g)",-0.00017918985410283886
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",Vitamin D2 (ergocalciferol) (g),-0.00017766157491610254
+"Fatty acids, total trans-polyenoic 15:1 (g)","Vitamin B-12, added (g)",-0.00017760948603506898
+"Fatty acids, total saturated 22:5 n-3 (DPA) (g)",Sucrose (g),-0.0001741952518954567
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",Caffeine (mg),-0.00017277417359280465
+Retinol (g),"Fatty acids, total polyunsaturated 22:1 t (g)",-0.00017232855983229876
+Caffeine (mg),"Fatty acids, total saturated 22:1 undifferentiated (g)",-0.0001715725784819346
+Stigmasterol (mg),"Fatty acids, total polyunsaturated 17:1 (g)",-0.00017067863004960747
+"Fatty acids, total polyunsaturated 18:2 i (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0001695635607247577
+"Fatty acids, total polyunsaturated 18:2 i (g)","Tocotrienol, delta (mg)",-0.00016948225947099508
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 18:1 t (g)",-0.00016937729635577378
+Theobromine (mg),"Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-0.0001685756181301261
+Galactose (g),"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-0.00016851844356264667
+Caffeine (mg),Vitamin B-12 (g),-0.0001676751791999745
+"Fatty acids, total polyunsaturated 22:1 t (g)",Adjusted Protein (g),-0.00016760642629708758
+"Vitamin B-12, added (g)",Adjusted Protein (g),-0.00016274272790984658
+Vitamin B-12 (g),"Fatty acids, total polyunsaturated 22:1 t (g)",-0.00016247713352396474
+"Fatty acids, total polyunsaturated 22:1 t (g)",Caffeine (mg),-0.0001622389297139664
+"Fatty acids, total saturated 18:4 (g)","Vitamin E, added (mg)",-0.00016048457239689796
+Fructose (g),"Fatty acids, total polyunsaturated 18:2 t,t (g)",-0.00015988681920463418
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Fatty acids, total polyunsaturated 24:1 c (g)",-0.00015802260556108225
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Fatty acids, total polyunsaturated 22:1 c (g)",-0.0001573763401840726
+Theobromine (mg),"Fatty acids, total polyunsaturated 22:1 t (g)",-0.0001573635972244825
+"Alcohol, ethyl (g)",Adjusted Protein (g),-0.00015501870954872605
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)","Fatty acids, total trans-polyenoic 18:3i (g)",-0.00015278001259733212
+Theobromine (mg),"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-0.00015274792681617714
+Caffeine (mg),"Fatty acids, total polyunsaturated 18:2 n-6 c,c (g)",-0.00015194397054346954
+"Alcohol, ethyl (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-0.00015097394059260618
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)",Caffeine (mg),-0.00015070248423626755
+"Fatty acids, total saturated 22:1 undifferentiated (g)",Dihydrophylloquinone (g),-0.00014686998663746638
+Beta-sitosterol (mg),"Fatty acids, total trans-polyenoic 22:4 (g)",-0.0001449332354469887
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 22:1 c (g)",-0.0001445829755741586
+"Fatty acids, total trans-polyenoic 22:4 (g)",Maltose (g),-0.00014332589932952546
+"Alcohol, ethyl (g)","Fatty acids, total trans (g)",-0.00014246181488747282
+Theobromine (mg),"Vitamin B-12, added (g)",-0.00014144901863494955
+"Fatty acids, total saturated 22:5 n-3 (DPA) (g)","Alcohol, ethyl (g)",-0.00014128247757494927
+Dihydrophylloquinone (g),"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-0.00014092537714429601
+"Fatty acids, total polyunsaturated 18:2 i (g)","Vitamin B-12, added (g)",-0.00014042052565896445
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.00013937168726017372
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)",Dihydrophylloquinone (g),-0.0001391038479753181
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Vitamin B-12, added (g)",-0.0001386861076426569
+"Alcohol, ethyl (g)","Tocopherol, delta (mg)",-0.0001378324672720443
+Galactose (g),"Fatty acids, total polyunsaturated 18:2 i (g)",-0.00013758217956457924
+"Vitamin E, added (mg)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00013726699771990437
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",Caffeine (mg),-0.00013720148846373158
+"Fatty acids, total saturated 22:1 undifferentiated (g)",Hydroxyproline (g),-0.00013621468969030035
+Maltose (g),Dihydrophylloquinone (g),-0.00013614462551097195
+"Alcohol, ethyl (g)",Theobromine (mg),-0.0001332706567493202
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.0001328655855693763
+"Fatty acids, total saturated 18:4 (g)",Hydroxyproline (g),-0.00013280024022363428
+"Fatty acids, total saturated 18:4 (g)",Theobromine (mg),-0.00013227212579662372
+"Fatty acids, total saturated 22:5 n-3 (DPA) (g)",Adjusted Protein (g),-0.00013115549986211173
+"Alcohol, ethyl (g)",Glucose (dextrose) (g),-0.00013011900063052197
+"Fatty acids, total polyunsaturated 18:2 i (g)","Fatty acids, total saturated 22:5 n-3 (DPA) (g)",-0.00012924298215242344
+"Alcohol, ethyl (g)","Fatty acids, total polyunsaturated 22:1 c (g)",-0.00012916244157105123
+"Sodium, Na (mg)",Adjusted Protein (g),-0.00012840548259952192
+"Vitamin B-12, added (g)",Caffeine (mg),-0.00012823003757763145
+Vitamin D2 (ergocalciferol) (g),"Tocopherol, gamma (mg)",-0.00012780803328538983
+"Fatty acids, total saturated 22:1 undifferentiated (g)",Galactose (g),-0.00012780453386149415
+"Alcohol, ethyl (g)","Fatty acids, total saturated 22:1 undifferentiated (g)",-0.00012779272390649193
+"Alcohol, ethyl (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00012756008069710935
+Campesterol (mg),"Vitamin E, added (mg)",-0.0001275063826746136
+"Fluoride, F (g)",Vitamin D2 (ergocalciferol) (g),-0.00012495425639278603
+Adjusted Protein (g),"Vitamin A, RAE (g)",-0.00012359905507032374
+Beta-sitosterol (mg),"Fatty acids, total polyunsaturated 16:1 c (g)",-0.00012218580489522656
+Adjusted Protein (g),"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00011986823344770939
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)",Hydroxyproline (g),-0.00011950735507927607
+Dihydrophylloquinone (g),"Fatty acids, total saturated 18:4 (g)",-0.00011942842394993985
+"Fatty acids, total trans-polyenoic 20:3 n-6 (g)","Alcohol, ethyl (g)",-0.00011939880337605384
+"Fatty acids, total saturated 22:1 undifferentiated (g)",Adjusted Protein (g),-0.00011860199396631747
+"Fatty acids, total saturated 18:4 (g)",Caffeine (mg),-0.00011840949122370625
+"Fatty acids, total polyunsaturated 18:3 n-6 c,c,c (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.00011619130814517097
+Campesterol (mg),"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-0.00011598313669605772
+Retinol (g),"Alcohol, ethyl (g)",-0.00011561296786555299
+"Alcohol, ethyl (g)","Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-0.00011552310810807215
+Fructose (g),Adjusted Protein (g),-0.0001146923958524456
+"Vitamin B-12, added (g)","Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-0.00011392484172454207
+"Vitamin B-12, added (g)","Tocopherol, delta (mg)",-0.00011387233050733493
+"Fatty acids, total saturated 18:4 (g)","Fatty acids, total trans-polyenoic 18:3i (g)",-0.00011373485051314353
+Vitamin D2 (ergocalciferol) (g),"Tocopherol, delta (mg)",-0.00011360031030982498
+"Fatty acids, total saturated 22:1 undifferentiated (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.00011300954438209363
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-0.00011256016752947157
+"Fatty acids, total polyunsaturated 18:1 t (g)","Alcohol, ethyl (g)",-0.00011197121765100276
+"Alcohol, ethyl (g)","Vitamin B-12, added (g)",-0.00011069059804468924
+Maltose (g),"Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.0001104103414824825
+Vitamin B-12 (g),"Fatty acids, total polyunsaturated 18:2 i (g)",-0.00010743913491311091
+"Vitamin E, added (mg)","Fatty acids, total trans-polyenoic 20:3 n-3 (g)",-0.00010684152863426102
+Adjusted Protein (g),"Vitamin E, added (mg)",-0.00010632830552808379
+Adjusted Protein (g),"Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-0.00010582638294187297
+Adjusted Protein (g),"Fatty acids, total trans-monoenoic (g)",-0.00010461558696789447
+"Fatty acids, total saturated 22:1 undifferentiated (g)","Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-0.00010439404273671928
+Stigmasterol (mg),"Fatty acids, total trans-polyenoic 18:3i (g)",-0.00010264934457855303
+Adjusted Protein (g),"Fatty acids, total trans-polyenoic 20:3 n-6 (g)",-0.00010049279860351311
+"Fatty acids, total polyunsaturated 22:1 t (g)","Fatty acids, total trans-polyenoic 20:4 n-6 (g)",-0.00010013344189934317
+Adjusted Protein (g),"Fatty acids, total trans-polyenoic (g)",-9.952866649876023e-05
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)","Alcohol, ethyl (g)",-9.939128413645599e-05
+"Fatty acids, total polyunsaturated 18:2 i (g)","Fatty acids, total saturated 18:4 (g)",-9.937536836827928e-05
+Caffeine (mg),"Alcohol, ethyl (g)",-9.912510428692915e-05
+Maltose (g),"Fatty acids, total saturated 14:1 (g)",-9.895616781186765e-05
+Arginine (g),"Fatty acids, total polyunsaturated 18:2 i (g)",-9.850407596742624e-05
+"Fatty acids, total polyunsaturated 17:0 (g)","Vitamin E, added (mg)",-9.844013826408501e-05
+"Fatty acids, total saturated 12:0 (g)","Fatty acids, total polyunsaturated 18:2 i (g)",-9.833992912529498e-05
+"Fatty acids, total saturated 22:5 n-3 (DPA) (g)",Vitamin D2 (ergocalciferol) (g),-9.65395811274788e-05
+"Vitamin B-12, added (g)","Fatty acids, total saturated 18:4 (g)",-9.61230273944738e-05
+"Fatty acids, total saturated 4:0 (g)","Alcohol, ethyl (g)",-9.605663833876465e-05
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)","Vitamin B-12, added (g)",-9.604570173409936e-05
+Adjusted Protein (g),"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-9.340765420121903e-05
+"Fatty acids, total trans-polyenoic 18:3i (g)",Maltose (g),-9.067049543413757e-05
+Dihydrophylloquinone (g),"Fatty acids, total trans-polyenoic 18:3i (g)",-8.965353920935107e-05
+Dihydrophylloquinone (g),Lutein + zeaxanthin (g),-8.901783168471279e-05
+"Fatty acids, total saturated 18:4 (g)","Alcohol, ethyl (g)",-8.723495561441942e-05
+"Vitamin E, added (mg)","Fatty acids, total polyunsaturated 18:1 c (g)",-8.686708635468852e-05
+Vitamin D2 (ergocalciferol) (g),"Fatty acids, total saturated 18:4 (g)",-8.670891105167602e-05
+"Fatty acids, total polyunsaturated 18:2 i (g)",Alanine (g),-8.247356717931521e-05
+"Fatty acids, total saturated 18:4 (g)",Adjusted Protein (g),-8.237522816252657e-05
+"Fatty acids, total polyunsaturated 17:1 (g)","Alcohol, ethyl (g)",-8.172275424195204e-05
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 18:2 t not further defined (g)",-8.12042664737395e-05
+Maltose (g),"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-7.918615130132163e-05
+"Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)","Fatty acids, total saturated 18:4 (g)",-7.84440552913022e-05
+Sucrose (g),Vitamin D2 (ergocalciferol) (g),-7.499856988688011e-05
+Dihydrophylloquinone (g),"Fatty acids, total polyunsaturated 18:1 c (g)",-7.40151794864974e-05
+"Vitamin B-12, added (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-7.380241787197916e-05
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Fatty acids, total saturated 22:1 undifferentiated (g)",-7.369247633143176e-05
+"Fatty acids, total polyunsaturated 18:2 i (g)",Theobromine (mg),-6.817199232886511e-05
+"Fatty acids, total saturated 18:4 (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-6.759659273137381e-05
+Folic acid (g),"Fatty acids, total polyunsaturated 16:1 t (g)",-6.610524494349164e-05
+"Fatty acids, total saturated 18:4 (g)",Campesterol (mg),-6.035647001980645e-05
+"Fatty acids, total polyunsaturated 22:1 t (g)",Cholesterol (mg),-5.811752536609407e-05
+"Vitamin B-12, added (g)","Fatty acids, total saturated 22:5 n-3 (DPA) (g)",-5.5319061657178796e-05
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-5.372068474319167e-05
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 17:1 (g)",-5.07965110231289e-05
+"Fatty acids, total saturated 22:1 undifferentiated (g)","Vitamin B-12, added (g)",-5.0113359148051074e-05
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Fatty acids, total saturated 18:4 (g)",-4.9747763926544374e-05
+"Fatty acids, total saturated 22:1 undifferentiated (g)",Maltose (g),-4.56744829635346e-05
+Beta-sitosterol (mg),"Fatty acids, total polyunsaturated 22:1 c (g)",-4.549544584450067e-05
+Adjusted Protein (g),"Fatty acids, total polyunsaturated 18:2 CLAs (g)",-4.375642966096151e-05
+"Fatty acids, total polyunsaturated 18:2 i (g)",Caffeine (mg),-4.352122635727057e-05
+"Fatty acids, total saturated 22:6 n-3 (DHA) (g)","Fatty acids, total trans-polyenoic 18:1-11 t (18:1t n-7) (g)",-4.2989725269552956e-05
+Starch (g),"Fatty acids, total polyunsaturated 18:2 t,t (g)",-4.297881466345688e-05
+"Fatty acids, total saturated 22:5 n-3 (DPA) (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-4.2689627356451426e-05
+"Fatty acids, total saturated 18:4 (g)",Maltose (g),-4.035033133767846e-05
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)","Fatty acids, total polyunsaturated 22:1 t (g)",-4.034537869376555e-05
+"Fatty acids, total saturated 6:0 (g)","Alcohol, ethyl (g)",-3.914786061586209e-05
+"Alcohol, ethyl (g)","Fatty acids, total trans-monoenoic (g)",-3.783626486432561e-05
+"Fatty acids, total trans-polyenoic (g)","Alcohol, ethyl (g)",-3.607712828004756e-05
+"Carbohydrate, by difference (g)","Fatty acids, total trans-polyenoic 13:0 (g)",-3.079910620322146e-05
+Dihydrophylloquinone (g),Hydroxyproline (g),-3.053122585234531e-05
+"Fatty acids, total saturated 18:4 (g)",Galactose (g),-2.869948179619974e-05
+Caffeine (mg),"Fatty acids, total polyunsaturated 18:1 c (g)",-2.8239257575234615e-05
+"Tocotrienol, beta (mg)","Fatty acids, total saturated 22:1 undifferentiated (g)",-2.6537020333522833e-05
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",Phytosterols (mg),-2.315214592656606e-05
+"Tocopherol, delta (mg)",Adjusted Protein (g),-2.2849492694070324e-05
+"Cryptoxanthin, beta (g)","Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-2.276277114381942e-05
+"Cryptoxanthin, beta (g)","Fatty acids, total saturated 22:6 n-3 (DHA) (g)",-1.8678816113768073e-05
+"Fatty acids, total saturated 22:1 undifferentiated (g)",Lycopene (g),-1.822232706579097e-05
+"Fatty acids, total polyunsaturated 18:2 t not further defined (g)","Alcohol, ethyl (g)",-1.4261598566254294e-05
+"Fatty acids, total trans-polyenoic 20:4 n-6 (g)","Tocopherol, delta (mg)",-1.2652562479094565e-05
+"Fatty acids, total saturated 20:1 (g)",Caffeine (mg),-1.1156874553938852e-05
+"Vitamin E, added (mg)","Fatty acids, total saturated 20:1 (g)",-1.0446880267844205e-05
+"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",Maltose (g),-8.527900697580962e-06
+"Vitamin E, added (mg)","Fatty acids, total polyunsaturated 16:1 c (g)",-5.680965654309561e-06
+Beta-sitosterol (mg),"Fatty acids, total saturated 20:5 n-3 (EPA) (g)",-4.3202322000867214e-06
+"Fatty acids, total polyunsaturated 20:2 n-6 c,c (g)",Stigmasterol (mg),-1.6292793166830863e-06
+"Tocopherol, delta (mg)",Hydroxyproline (g),-1.5421561729011311e-06
+"Alcohol, ethyl (g)","Calcium, Ca (mg)",-8.795014304255697e-07
