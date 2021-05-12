@@ -5,27 +5,27 @@
 File structure:
 ```
 .
-|--assets
-|--|--css
+|--assets/
+|--|--css/
 |--|--|--bootstrap.min.css
 |--|--|--owl-carousel.css
 |--|--|--styles.css
-|--|--images
-|--|--js
-|--html_nb
+|--|--images/
+|--|--js/
+|--html_nb/
 |  |--backbone_extraction.html
 |  |--community_detection.html
 |  |--correlation_coeffs.html
 |  |--eda.html
 |  |--pca.html
 |  |--vote_rank.html
-|--output_files
+|--output_files/
 |  |--community_lists.csv
 |  |--ingredient_weights.csv
 |  |--neg_pairs.csv
 |  |--pos_pairs.csv
 |  |--voteRank_ingredient.csv
-|--plots
+|--plots/
 |--README.md
 |--backbone_extraction.ipynb
 |--community_detection.ipynb
